@@ -1,0 +1,9 @@
+﻿  lab.6.1(2).cpp
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(53,6): error C2084: функция "void Create(int *,const int,const int,const int,int)" уже имеет текст реализации
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(13): message : см. предыдущее определение "Create"
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(62,6): error C2084: функция "void Print(int *,const int,int)" уже имеет текст реализации
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(19): message : см. предыдущее определение "Print"
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(77,2): error C2065: Create: необъявленный идентификатор
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(78,2): error C2065: Print: необъявленный идентификатор
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(81,2): error C2065: Create: необъявленный идентификатор
+C:\Users\Злата\source\repos\lab.6.1(2)\lab.6.1(2)\lab.6.1(2).cpp(82,2): error C2065: Print: необъявленный идентификатор
